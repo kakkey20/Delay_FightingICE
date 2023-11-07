@@ -38,7 +38,7 @@ pip install opencv-python
 
 ### セットアップ
 ```
-cd FTG4.30
+cd FTG4.50
 git clone https://github.com/myt1996/gym-fightingice.git
 pip install -e .
 ```
