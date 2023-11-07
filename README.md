@@ -1,11 +1,14 @@
 # Delay_FightingICE
 
-ここにプロジェクトの概要や説明を簡潔に記述します。
 
 ## 参考文献
 
 - [FightingICE_RL](https://github.com/ruritoBlogger/FightingICE_RL)
 - https://kbkn.xyz/ue4/fightingicesetup/
+- https://github.com/TeamFightingICE/Gym-FightingICE
+- https://www.inoue-kobo.com/ai_ml/gym-fightingice/
+- https://qiita.com/hideki/items/589a4fad8e135d5adcbd
+- https://www.ice.ci.ritsumei.ac.jp/~ftgaic/index.htm
 
 ## 使用環境
 
@@ -14,8 +17,6 @@
 - python=3.9.12
 - MSVC 2019
 - jdk-20.0.1
-
-## 手順
 
 ## Javaのインストール
 ```
