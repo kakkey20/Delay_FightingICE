@@ -23,7 +23,8 @@ brew cask install java
 ```
 
 ## Fighting ICEのダウンロード
-- https://www.ice.ci.ritsumei.ac.jp/~ftgaic/index-2.html より、Version4.50として配布されているZIPアーカイブをダウンロードして適当なディレクトリに解凍します。
+- https://www.ice.ci.ritsumei.ac.jp/~ftgaic/index-2.html より、Version4.50として配布されているZIPアーカイブをダウンロードして適当なディレクトリに解凍する。
+- FTG4.50の中に、上記のDelay_FightingICEを入れる
 
 ### 必要なパッケージのインストール
 
@@ -36,7 +37,7 @@ pip install port_for
 pip install opencv-python
 ```
 
-### セットアップ
+### gym-FightingICEのインストール
 ```
 cd FTG4.50
 git clone https://github.com/myt1996/gym-fightingice.git
