@@ -24,3 +24,15 @@ pip install gym
 pip install py4j
 pip install port_for
 pip install opencv-python
+
+### セットアップ
+```bash
+pip install -e .
+
+
+## 学習方法
+```bash
+python Delay_FightingICE/train.py
+
+学習が完了すると、param.h5 ファイルが作成されます。
+
