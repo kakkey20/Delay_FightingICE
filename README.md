@@ -24,7 +24,7 @@ brew cask install java
 
 ## Fighting ICEのダウンロード
 - https://www.ice.ci.ritsumei.ac.jp/~ftgaic/index-2.html より、Version4.50として配布されているZIPアーカイブをダウンロードして適当なディレクトリに解凍する。
-- FTG4.50の中に、上記のDelay_FightingICEを入れる
+- FTG4.50直下に、上記のDelay_FightingICEをダウンロードして、解凍する。
 
 ### 必要なパッケージのインストール
 
