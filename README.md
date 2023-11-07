@@ -5,7 +5,7 @@
 ## 参考文献
 
 - [FightingICE_RL](https://github.com/ruritoBlogger/FightingICE_RL)
-https://kbkn.xyz/ue4/fightingicesetup/
+- https://kbkn.xyz/ue4/fightingicesetup/
 
 ## 使用環境
 
