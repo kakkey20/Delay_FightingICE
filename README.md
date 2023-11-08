@@ -3,11 +3,11 @@ FightingICEにおいて、AIに遅延を与えることで難易度調整がで�
 
 ## 使用環境
 
-- tensorflow=2.11.0
-- CUDA=11.2.0
-- python=3.9.12
-- MSVC 2019
 - jdk-20.0.1
+- python=3.9.12
+- tensorflow=2.11.0
+- CUDA=11.2.0（GPU使用の際に必要）
+- MSVC 2019（GPU使用の際に必要）
 
 ## Javaのインストール
 ```
