@@ -1,5 +1,5 @@
 # Delay_FightingICE
-
+FightingICEにおいて、AIに遅延を与えることで難易度調整ができるか検証する
 
 ## 参考文献
 
